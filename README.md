@@ -18,7 +18,7 @@ Getting Started
 2. You will also need to have Python 3 installed on your computer. Once you have your API key and Python installed, you can clone the repository and install the required packages using the following commands:
 
 ```
-git clone https://github.com/ziqintian/Music-Recommendation-Generator.git
+git clone [the link get from the githube repo]
 cd <repository>
 ```
 or
