@@ -18,7 +18,7 @@ Getting Started
 2. You will also need to have Python 3 installed on your computer. Once you have your API key and Python installed, you can clone the repository and install the required packages using the following commands:
 
 ```
-git clone [the link get from the githube repo]
+git clone [the link get from the github repo]
 cd <repository>
 ```
 or
