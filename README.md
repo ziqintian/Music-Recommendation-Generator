@@ -33,13 +33,13 @@ Usage
 2. Make sure all the packages are installed. If error messages occur, install the packages first, then run the code.
 Packages used for this apps are: requests, json, openai, functools
 
-2. To use the music recommendation generator, run the `main.py` file in your terminal using the following command:
+3. To use the music recommendation generator, run the `main.py` file in your terminal using the following command:
 
 ```
 python main.py
 ```
 or
-3. You can run the code on your own code editor.
+4. You can run the code on your own code editor.
 
 The program will ask for your age, gender, mood, weather, genre, and favorite artists. Once you have provided the input, the system will generate recommendations for songs, movies, and food based on your profile and choices.
 
