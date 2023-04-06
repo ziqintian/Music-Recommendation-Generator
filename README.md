@@ -1,7 +1,14 @@
 Music Recommendation Generator
 ===========================
 ## SI568 Mini Project
-This is a music recommendation system that suggests songs based on the user's age, gender, mood, weather, genre, and favorite artists. The system uses OpenAI's GPT-3 to generate recommendations based on the user's input.
+
+Don't know what songs to listen?
+
+Want to have some new songs to start your day?
+
+Wanna more recommendations?
+
+Music Recommendation Generator is a music recommendation system that suggests songs based on the user's age, gender, mood, weather, genre, and favorite artists. It uses OpenAI's GPT-3 to generate recommendations based on user's inputs.
 
 Getting Started
 ---------------
@@ -25,7 +32,6 @@ Usage
 
 ```
 python main.py
-
 ```
 or
 2. You can run the code on your own code editor.
@@ -46,8 +52,6 @@ Make sure these packages are installed in the environment where the code will be
 This project relies on the OpenAI API, which requires an API key. The API key is loaded from an environment variable called `OPENAI_API_KEY`. To run the code, make sure this environment variable is set to a valid OpenAI API key.
 
 #### Code Flow
-
-* The `main()` function in `recommendations.py` is the entry point for the program. It prompts the user for their age, gender, mood, weather, preferred genre, and favorite artists, and then uses this information to generate recommendations using the OpenAI API.
 
 * The `get_age()`, `get_gender()`, `get_mood()`, `get_weather()`, `get_genre()`, and `get_artists()` functions are all helper functions used by `main()` to prompt the user for information.
 
